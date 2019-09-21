@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\bin\Debug\Black Jack 21 Oyunu.exe.config
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\bin\Debug\Black Jack 21 Oyunu.exe
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\bin\Debug\Black Jack 21 Oyunu.pdb
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black Jack 21 Oyunu.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black_Jack_21_Oyunu.Form1.resources
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black_Jack_21_Oyunu.Properties.Resources.resources
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black Jack 21 Oyunu.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black Jack 21 Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black Jack 21 Oyunu.exe
+C:\Users\reela\source\repos\Black Jack 21 Oyunu\Black Jack 21 Oyunu\obj\Debug\Black Jack 21 Oyunu.pdb
